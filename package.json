@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "test node for dinahosting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancodeUDW/nodeTest.git"
+  },
+  "author": "ancode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ancodeUDW/nodeTest/issues"
+  },
+  "homepage": "https://github.com/ancodeUDW/nodeTest#readme",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  }
+}
